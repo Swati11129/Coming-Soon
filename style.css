@@ -6,7 +6,7 @@
 
 body {
     font-family        : 'Montserrat', sans-serif;
-    background         : url('./images/background.jpg');
+    background         : url('./images/img2.jpg');
     background-position: center;
     background-size    : cover;
     background-repeat  : no-repeat;
@@ -107,7 +107,7 @@ p.sub-title {
 
 .subscribe input {
     flex     : 1;
-    color   :black;
+    color    : #3f9c2f;
     font-size: 1.3em;
 }
 
